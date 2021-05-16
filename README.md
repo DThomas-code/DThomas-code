@@ -1,1 +1,3 @@
-# Hello
+# Hello, I'm DThomas
+
+I'm a programmer...
